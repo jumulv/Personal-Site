@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>jumulv</title>
+      <link>https://jumulv.pages.dev</link>
+      <description>My portfolio and beyond.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://jumulv.pages.dev/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 23 Sep 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>My Master&#39;s Thesis Defence</title>
+          <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+          <author>jumulv</author>
+          <link>https://jumulv.pages.dev/posts/thesis-presentation/</link>
+          <guid>https://jumulv.pages.dev/posts/thesis-presentation/</guid>
+          <description xml:base="https://jumulv.pages.dev/posts/thesis-presentation/">&lt;p&gt;On &lt;em&gt;16 September 2026&lt;/em&gt;, I had the opportunity to present and defend my Master&#39;s Thesis on
+&lt;em&gt;Modelling Nonlinear Insulin-Glucose Dynamics in Critically-ill Patients&lt;/em&gt;!&lt;/p&gt;
+&lt;iframe src=&quot;/documents/presentation.pdf&quot; height=&quot;400&quot; width=&quot;600&quot; style=&quot;border:none;&quot; title=&quot;View My Presentation Here&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;It was a great opportunity to present my last 8 months of work and to gain
+crucial constructive criticism from my opponent. It is a bittersweet feeling coming to
+the final days at my days at KTH, but I&#39;m looking forward to my next endeavour, and will
+certainly reminisce my two years at this great school.&lt;/p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
